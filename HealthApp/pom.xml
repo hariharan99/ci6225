@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ci6225.springboot.web</groupId>
-	<artifactId>HealthApp</artifactId>
+	<artifactId>02-todo-web-application-h2</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<name>HealthApp</name>
